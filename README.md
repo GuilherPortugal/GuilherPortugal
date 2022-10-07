@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**GuilherPortugal/GuilherPortugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- PT - BR
+- 🔭 Hoje trabalho com back-end
+- 🖥️ Estudante de ciência da computação
+- 😶‍🌫️ Cidade atual - Americana-sp
+- 💬 Estudando inglês
+- 💾 C# developer
+- 🖼️ Estudando Front-end(React)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- EN - US
+- 🔭Today I work with backend
+- 🖥️ Computer science student
+  🌫️ Current city - Americana-sp
+- 💬 Studying English
+- 💾 C# Developer
+- 🖼️ Studying Frontend(React)
